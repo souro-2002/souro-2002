@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @souro-2002
+- 👋 Hi, I’m @souro-2002 aka Souro Chatterjee
 - 👀 I’m interested in Competitive Coding and Web Development
 - 🌱 I’m currently learning competitive programmming
 
