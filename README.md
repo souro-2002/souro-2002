@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souro-2002 aka Souro Chatterjee
 - 👀 I’m interested in Competitive Coding and Web Development
-- 🌱 I’m currently learning competitive programmming
+- 🌱 I’m currently learning competitive programmming and pursuing full-stack web development
 
 <!---
 souro-2002/souro-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
